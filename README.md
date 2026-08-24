@@ -18,8 +18,6 @@ AI platform and automation engineer in Toronto. I build agentic AI and automatio
 | [agent-slots](https://github.com/hishamalward/agent-slots) | Per-agent isolation for parallel coding agents: one integer derives a worktree, a database, two ports, and a job-queue schema. |
 | [toilscan](https://github.com/hishamalward/toilscan) | Claude Code plugin that scans Git history for recurring developer toil and recommends the smallest automation that removes it. Every finding cites its commits. |
 
-Five repos, one habit: show the evidence, and put the guardrails in code.
-
 **Background:** A decade+ across networking, cloud consulting, and security automation. Azure Solutions Architect Expert, AWS Solutions Architect, Terraform, CCNP.
 
 Toronto · [LinkedIn](https://www.linkedin.com/in/hishamalward)
