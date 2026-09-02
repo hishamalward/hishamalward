@@ -12,7 +12,7 @@ AI platform and automation engineer in Toronto. I build agentic AI and automatio
 
 | Repo | What it does |
 |---|---|
-| [evalmine](https://github.com/hishamalward/evalmine) | Scores a model change on your own tasks: pairwise LLM judge with position swap, Cohen's kappa against your labels, schema and execution checks, latency, cost from a pinned price table. Refuses to headline a win-rate its judge cannot defend. Three-tool MCP server so an agent can run the evals mid-task. |
+| [evalmine](https://github.com/hishamalward/evalmine) | Evaluation evidence for model, agent, and application-generated comparisons: blind review, human-calibrated judges, cost and provenance tracking, and guarded CLI/MCP workflows. Refuses to headline results the judge cannot defend. |
 | [mcpclerk](https://github.com/hishamalward/mcpclerk) | A governance proxy for MCP servers: per-tool allowlist (deny by default), human approval for write-class tools, quotas, secret redaction before logging, and a hash-chained audit log that verifies. |
 | [agentkeel](https://github.com/hishamalward/agentkeel) | A framework for shipping production code with AI coding agents: work priced by size, spec-first, four gates with named owners, blast radius bounded by Claude Code hooks. |
 | [agent-slots](https://github.com/hishamalward/agent-slots) | Per-agent isolation for parallel coding agents: one integer derives a worktree, a database, two ports, and a job-queue schema. |
