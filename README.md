@@ -1,23 +1,13 @@
-### Hisham Al-Ward
+# Hisham Al-Ward
 
-AI platform and automation engineer in Toronto. I build agentic AI and automation systems for enterprises, and I measure whether they were worth building.
+AI platform and automation engineer in Toronto. I build AI systems and automation for enterprises, with a focus on reliability and measurable value.
 
-**Three things I care about**
+My work centers on:
 
-- **Agentic governance:** AI agents writing production code behind spec gates, blast-radius guardrails, and quality gates that make violations mechanical rather than discouraged.
-- **Automation with receipts:** value-stream baselines, honest ROI models, and measured-vs-projected kept strictly separate.
-- **LLM engineering:** per-task model routing, prompt evals calibrated against human labels, and cost engineering. Listenality's enrichment pipeline runs at ~$0.36 per 1,000 tracks because the evals said it could.
+- **AI agents:** clear permissions, guardrails and human oversight.
+- **LLM engineering:** evaluation, model selection and cost control.
+- **Automation:** less manual work, backed by measured results.
 
-**Public work** (MIT, each with a `docs/learning/how-it-works` tour for whoever owns it next)
+My background spans networking, cloud consulting and security automation.
 
-| Repo | What it does |
-|---|---|
-| [evalmine](https://github.com/hishamalward/evalmine) | Evaluation evidence for model, agent, and application-generated comparisons: blind review, human-calibrated judges, cost and provenance tracking, and guarded CLI/MCP workflows. Refuses to headline results the judge cannot defend. |
-| [mcpclerk](https://github.com/hishamalward/mcpclerk) | A governance proxy for MCP servers: per-tool allowlist (deny by default), human approval for write-class tools, quotas, secret redaction before logging, and a hash-chained audit log that verifies. |
-| [agentkeel](https://github.com/hishamalward/agentkeel) | A framework for shipping production code with AI coding agents: work priced by size, spec-first, four gates with named owners, blast radius bounded by Claude Code hooks. |
-| [agent-slots](https://github.com/hishamalward/agent-slots) | Per-agent isolation for parallel coding agents: one integer derives a worktree, a database, two ports, and a job-queue schema. |
-| [toilscan](https://github.com/hishamalward/toilscan) | Claude Code plugin that scans Git history for recurring developer toil and recommends the smallest automation that removes it. Every finding cites its commits. |
-
-**Background:** A decade+ across networking, cloud consulting, and security automation. Azure Solutions Architect Expert, AWS Solutions Architect, Terraform, CCNP.
-
-Toronto · [LinkedIn](https://www.linkedin.com/in/hishamalward)
+[LinkedIn](https://www.linkedin.com/in/hishamalward)
